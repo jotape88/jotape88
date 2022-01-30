@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @jotape88
-- 👀 I’m interested in programming and web dev
-- 🌱 I’m currently learning C#, SQL, React and others!
-- 📫 How to reach me: E-mail me!
+- 👋 Hi, I'm @jotape88, I'm interested in programming and Web Dev
+- 🌱 I'm currently learning C#, SQL, React and others!
+- 📫 How to reach me: E-mail me @ jota171088@gmail.com
 
 <!---
 jotape88/jotape88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
