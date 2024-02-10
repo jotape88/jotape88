@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @jotape88, I'm interested in programming and Web Dev
+- 👋 Hi, I'm @jotape88, I work as a Salesforce Developer with broad expirence in Apex, VisualForce, Triggers & automations tools
 - 🌱 I'm currently learning C#, SQL, React and others!
 - 📫 How to reach me: E-mail me! 
 
